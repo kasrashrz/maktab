@@ -1,0 +1,2 @@
+ifconfig -> 192.168.1.50 -> laptops local IP (Mobinnet services)
+Iphone setting -> 192.168.1.51 -> iphones local IP (mobinnet services)

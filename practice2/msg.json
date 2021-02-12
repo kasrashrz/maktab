@@ -1,0 +1,14 @@
+{
+    "user1":{
+        "name": "kasra",
+        "age": 16
+    },
+    "user2":{
+        "name": "ali",
+        "age": 17
+    },
+    "user3":{
+        "name": "mani",
+        "age": 22
+    }
+}
